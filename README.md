@@ -1,4 +1,4 @@
-<h1> web sitesi projesi Projesi<h1>
+<h1> web sitesi projesi<h1>
 
 <p>proje tamamlanmıştır.<p>
 
